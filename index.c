@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 int main()
-{
-    printf("Hello world!\n");
+{  
+    printf("donner la taille de tableau");
     return 0;
+
 }
