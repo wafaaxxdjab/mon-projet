@@ -23,7 +23,7 @@ int main()
     scanf("%d",&N);
 
     printf("donner les elements de tabbleau :\n");
-    for(i=0; i<=N; i++){
+    for(i=0; i< N; i++){
        scanf("%d",&T[i]);
     }
 
